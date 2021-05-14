@@ -2,7 +2,7 @@
 - 👀 I’m interested in full stack web development and app development
 - 🌱 I’m currently learning web development and app development
 - 💞️ I’m looking to collaborate on projects on web and app development
-- 📫 How to reach me +2348114192222 via WhatsApp
+- 📫 How to reach me +2348114192222 via WhatsApp and innocentjosiah57@gmail.com
 
 <!---
 patrickCoded/patrickCoded is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
